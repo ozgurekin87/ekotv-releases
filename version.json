@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.2",
-    "sha256":  "e74529cceed783e27aeee4f04d966bfcb10d50c283684cadc41a8caf6bc6f5cd",
+    "version":  "1.15.0",
+    "sha256":  "6403c135d6b21f5ef3f284fc7bc59b377ae10bcee29bfddd4f4ab636350bce36",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Design preview shows a sample message when no running-text message exists yet"
+    "notes":  "Design page redesign (sticky Save, tabs, bar logo picker), running text on by default, smooth switching between videos, autoplay picks different songs"
 }
