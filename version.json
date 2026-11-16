@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "sha256": "88de642a9f3918d596a62806b5bf262ee7b89cd19a38b299da60098414c3616f",
+  "version": "1.7.2",
+  "sha256": "3a19161d1227a3e160bcb7bef563599b79ede006f0707989d3a69233da21a584",
   "file": "EkoTV-Setup.exe",
-  "notes": "Update progress bar (download, check, install, restart) with automatic reload; screen versions shown."
+  "notes": "Settings: hide videos that will not play embedded from search; turn the YouTube site fallback on or off."
 }
