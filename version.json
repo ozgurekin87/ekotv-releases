@@ -1,6 +1,6 @@
 {
-    "version":  "1.10.0",
-    "sha256":  "dcb5a0fbecdc466051368de63da0802ade60d4764e7289efc2053aa85939957b",
+    "version":  "1.11.0",
+    "sha256":  "7eb8dbfdfc28714942b3d4663824854433f69fcb512e9509521b2b36f6e7de0b",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "New control panel: sidebar layout, screen cards with detail drawer, Music page"
+    "notes":  "Blank message, running text schedule and repeat, user rights, autoplay, phone music remote, find main PC, leave screen, tray icon"
 }
