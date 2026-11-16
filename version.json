@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.0",
-    "sha256":  "b59a50a3da79ccddffec78d239cdc36e2a62f8453580d127636275c78e6dd8cc",
+    "version":  "1.14.1",
+    "sha256":  "e428f7cdfb784c667432cb0435e0fdec529a7767fbd2012130ac62a351c20ea2",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Broadcast bar for running text (label/logo block, messages one at a time, scheduled messages that scroll over the bar, no clock); phone Music page fits the screen, no iPhone focus-zoom"
+    "notes":  "Fix: online update failed with Access is denied when the tray icon was running; the update now works around a locked old program file and the tray restarts itself after an update"
 }
