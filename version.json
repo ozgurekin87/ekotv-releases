@@ -1,6 +1,6 @@
 {
-    "version":  "1.12.0",
-    "sha256":  "42c9c91e69954ab6f1d8d5cdd736c9a4127b0ac199065bdab910c90a6cc0742d",
+    "version":  "1.13.0",
+    "sha256":  "af264760e5ddf2466364ea76e75d385461a97d5d24bdccb509ed6759e8f35638",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "HDMI audio fix in Setup (adds the missing audio declaration for video wall processors, with backup and undo)"
+    "notes":  "YouTube captions always off on the TVs; Setup support report for troubleshooting (Windows, drivers, sound, displays, logs)"
 }
