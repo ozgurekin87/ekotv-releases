@@ -1,6 +1,6 @@
 {
-  "version": "1.8.1",
-  "sha256": "90d87f99cf6837ffbf7a710ed3dcbd6c71a78778ae78dba1f55ffaf994cb6c71",
+  "version": "1.9.0",
+  "sha256": "1a1ea477b433a2d1a40c5fc7554fbdc2f2eb7bc94a9cfc36556195187c3df3ba",
   "file": "EkoTV-Setup.exe",
-  "notes": "Update checks always see the newest release right away."
+  "notes": "Search suggestions while typing; YouTube site mode stays black until full-screen and plays in HD."
 }
