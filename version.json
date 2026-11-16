@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "sha256": "86ef701b203ed0d65e4a11e9a8db05a5fd175d3402eb85b232f026356041f6cb",
+  "version": "1.7.1",
+  "sha256": "88de642a9f3918d596a62806b5bf262ee7b89cd19a38b299da60098414c3616f",
   "file": "EkoTV-Setup.exe",
-  "notes": "YouTube-style queue: played songs stay in the list, tap any song to play it, move up/down, previous button."
+  "notes": "Update progress bar (download, check, install, restart) with automatic reload; screen versions shown."
 }
