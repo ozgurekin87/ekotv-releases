@@ -1,6 +1,6 @@
 {
-  "version": "1.7.2",
-  "sha256": "3a19161d1227a3e160bcb7bef563599b79ede006f0707989d3a69233da21a584",
+  "version": "1.7.3",
+  "sha256": "384cb3cf5cfb8207afd38ce82e1242ab521da74b85a345e54acbc90e7684523f",
   "file": "EkoTV-Setup.exe",
-  "notes": "Settings: hide videos that will not play embedded from search; turn the YouTube site fallback on or off."
+  "notes": "Player test mode: show the player in a window instead of full screen (for office/development PCs)."
 }
