@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "sha256": "6282ae1a1ed03eca7adb6b48fe115dce84956d33f25950fff67bc212ecc22840",
+  "version": "1.7.0",
+  "sha256": "86ef701b203ed0d65e4a11e9a8db05a5fd175d3402eb85b232f026356041f6cb",
   "file": "EkoTV-Setup.exe",
-  "notes": "YouTube site mode now truly full-screen (no page, captions off). Played list with re-queue. Fix: queued uploaded videos/images could fail to load."
+  "notes": "YouTube-style queue: played songs stay in the list, tap any song to play it, move up/down, previous button."
 }
