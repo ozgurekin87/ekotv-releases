@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "sha256": "3f9c462e3c8af62874514cd38913511cf99df76e80d0c7c52f0abbedfeb15b6f",
+  "version": "1.4.0",
+  "sha256": "1713d31f8d95bb7fdb332194e31e96a4d616fffc2c13c9547866b299bede7d9b",
   "file": "EkoTV-Setup.exe",
-  "notes": "YouTube tab: Now playing and Up next with thumbnails, one-tap + Queue / Play now, Save queue as playlist."
+  "notes": "Pause/resume, restart song, progress bar, volume in the player card, Play next in the queue."
 }
