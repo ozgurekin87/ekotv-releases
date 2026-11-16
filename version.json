@@ -1,6 +1,6 @@
 {
-    "version":  "1.13.0",
-    "sha256":  "af264760e5ddf2466364ea76e75d385461a97d5d24bdccb509ed6759e8f35638",
+    "version":  "1.14.0",
+    "sha256":  "b59a50a3da79ccddffec78d239cdc36e2a62f8453580d127636275c78e6dd8cc",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "YouTube captions always off on the TVs; Setup support report for troubleshooting (Windows, drivers, sound, displays, logs)"
+    "notes":  "Broadcast bar for running text (label/logo block, messages one at a time, scheduled messages that scroll over the bar, no clock); phone Music page fits the screen, no iPhone focus-zoom"
 }
