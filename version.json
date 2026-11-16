@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "sha256": "6996c8862884c248965d8972ac87678250fe1174ab37f93d1677e3400c181cf8",
+  "version": "1.6.1",
+  "sha256": "6282ae1a1ed03eca7adb6b48fe115dce84956d33f25950fff67bc212ecc22840",
   "file": "EkoTV-Setup.exe",
-  "notes": "Music-only users with PIN, Design tab (idle screen with your logo, running text/ads styling) with live preview."
+  "notes": "YouTube site mode now truly full-screen (no page, captions off). Played list with re-queue. Fix: queued uploaded videos/images could fail to load."
 }
