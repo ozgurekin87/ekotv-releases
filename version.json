@@ -1,6 +1,6 @@
 {
-    "version":  "1.16.0",
-    "sha256":  "e4789f8087761ec707c796f9968840c287b8fb2eda65f631d493f379902a26e0",
+    "version":  "1.16.1",
+    "sha256":  "7eaed1288fd66b7d777111a31e2d7f81db129d4d95a7b520a95daf2f34876c60",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Video fits above the bottom bar; full-screen ads above the bar (Design \u003e Ads, pictures and videos with their own sound); autoplay memory and smarter song matching"
+    "notes":  "Fix: black screen on videos played through the YouTube site (removed the video-resize rule; bar and ad code can no longer stop playback)"
 }
