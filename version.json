@@ -1,6 +1,6 @@
 {
-  "version": "1.7.3",
-  "sha256": "384cb3cf5cfb8207afd38ce82e1242ab521da74b85a345e54acbc90e7684523f",
+  "version": "1.8.0",
+  "sha256": "5e90d99b3cedbf0c131b2dc4bbe1e609b1091e7e88d29d0f5245b195e1c05947",
   "file": "EkoTV-Setup.exe",
-  "notes": "Player test mode: show the player in a window instead of full screen (for office/development PCs)."
+  "notes": "Phone button with QR code to open the control panel on a phone; stay logged in for 30 days, also across updates."
 }
