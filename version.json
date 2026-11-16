@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "sha256": "b184994ec2fa500f7d8c4ec6cd1bd081f9eea0084edf24174ddb101704a004cc",
+  "version": "1.6.0",
+  "sha256": "6996c8862884c248965d8972ac87678250fe1174ab37f93d1677e3400c181cf8",
   "file": "EkoTV-Setup.exe",
-  "notes": "Blocked videos (VEVO etc.) now play through the YouTube site automatically, with pause, volume, next and ticker still working."
+  "notes": "Music-only users with PIN, Design tab (idle screen with your logo, running text/ads styling) with live preview."
 }
