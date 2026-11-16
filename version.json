@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "sha256": "1713d31f8d95bb7fdb332194e31e96a4d616fffc2c13c9547866b299bede7d9b",
+  "version": "1.4.1",
+  "sha256": "c2d65a26c8e171d470de0e4b7f16877da4c0e1b81ef4685f866faa7fdf399589",
   "file": "EkoTV-Setup.exe",
-  "notes": "Pause/resume, restart song, progress bar, volume in the player card, Play next in the queue."
+  "notes": "Search marks videos the TV cannot play (owner blocks embedding) and flags VEVO videos."
 }
