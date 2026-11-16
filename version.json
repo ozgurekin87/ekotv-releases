@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "sha256": "c2d65a26c8e171d470de0e4b7f16877da4c0e1b81ef4685f866faa7fdf399589",
+  "version": "1.5.0",
+  "sha256": "b184994ec2fa500f7d8c4ec6cd1bd081f9eea0084edf24174ddb101704a004cc",
   "file": "EkoTV-Setup.exe",
-  "notes": "Search marks videos the TV cannot play (owner blocks embedding) and flags VEVO videos."
+  "notes": "Blocked videos (VEVO etc.) now play through the YouTube site automatically, with pause, volume, next and ticker still working."
 }
