@@ -1,6 +1,6 @@
 {
-    "version":  "1.14.1",
-    "sha256":  "e428f7cdfb784c667432cb0435e0fdec529a7767fbd2012130ac62a351c20ea2",
+    "version":  "1.14.2",
+    "sha256":  "e74529cceed783e27aeee4f04d966bfcb10d50c283684cadc41a8caf6bc6f5cd",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: online update failed with Access is denied when the tray icon was running; the update now works around a locked old program file and the tray restarts itself after an update"
+    "notes":  "Design preview shows a sample message when no running-text message exists yet"
 }
