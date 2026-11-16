@@ -1,6 +1,6 @@
 {
-    "version":  "1.15.0",
-    "sha256":  "6403c135d6b21f5ef3f284fc7bc59b377ae10bcee29bfddd4f4ab636350bce36",
+    "version":  "1.15.1",
+    "sha256":  "fdabd54ee467e87c303506aefa8bb0eb326658ed624b7961db19c537388518ab",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Design page redesign (sticky Save, tabs, bar logo picker), running text on by default, smooth switching between videos, autoplay picks different songs"
+    "notes":  "Bar logo with a white background: match block colour to the logo, or remove the logo\u0027s background"
 }
