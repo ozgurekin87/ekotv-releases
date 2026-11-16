@@ -1,6 +1,6 @@
-{
-  "version": "1.9.1",
-  "sha256": "e515869eacc896f70b8027d1e45c05aed0e971da51a273123bd6aac5d548064a",
-  "file": "EkoTV-Setup.exe",
-  "notes": "Stop/Start player (control panel button, Ctrl+Alt+E on the PC, Start-menu shortcut). Idle clock off by default."
+﻿{
+    "version":  "1.10.0",
+    "sha256":  "dcb5a0fbecdc466051368de63da0802ade60d4764e7289efc2053aa85939957b",
+    "file":  "EkoTV-Setup.exe",
+    "notes":  "New control panel: sidebar layout, screen cards with detail drawer, Music page"
 }
