@@ -1,6 +1,6 @@
 {
-    "version":  "1.20.1",
-    "sha256":  "21cd75c741a8d62a7e6069bc005f41a65871bbfc7aca3c3c01abc02a0d474601",
+    "version":  "1.21.0",
+    "sha256":  "c1feeb53e232a906540a716e189dd1990bb668c9107c63434a437de4ff981a14",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Playing music on a screen that shows a TV channel now asks first, then stops the channel and plays the music"
+    "notes":  "Websites on a screen with Remote control (NexGen TV page); asks before switching between music and TV; Show now restarts the ad timer; ad layout and captions fixes"
 }
