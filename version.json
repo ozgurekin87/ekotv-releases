@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.3",
-    "sha256":  "d80d3ea0016e628c4e10bb34ca0c8c0f04a85c65f300c20b85b28bfecfcab3b7",
+    "version":  "1.19.4",
+    "sha256":  "f12451c533fef0193e44679e9b8d52367b930e010a75e5e288220df1ced6c573",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Card status is correct after Leave screen and Return to screen"
+    "notes":  "Slower fade when skipping (sound fades out over 1.5 s); fix ad Show now not appearing on repeat"
 }
