@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.2",
-    "sha256":  "020a3ecd3d15a8bc56ededf4e7c2408b2ad7689da07ef7d87c8cc7d54229c02c",
+    "version":  "1.19.3",
+    "sha256":  "d80d3ea0016e628c4e10bb34ca0c8c0f04a85c65f300c20b85b28bfecfcab3b7",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Test-mode window fills the screen; DW English replaces dead ABC test channel"
+    "notes":  "Card status is correct after Leave screen and Return to screen"
 }
