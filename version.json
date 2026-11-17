@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.9",
-    "sha256":  "9b9949d6440727e612af990a348ee86c64b105c5eb1372ed6884cfcbd73a9feb",
+    "version":  "1.20.0",
+    "sha256":  "e48e634e8779551c6a72ab5872fcfd1ee4a4bd286d9d2ae32b3625053f8cce22",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Help page with the user guide; Play now clears the playlist; Queued button fix; search clear button; ads take turns"
+    "notes":  "Roles and users: per-role menus and sub-menus, fixed Admin role; Autoplay badge; clearer Back to playlist button"
 }
