@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.6",
-    "sha256":  "76aec8f0d133d954b6a6858f2ce956f68f903496bddb7abf56d1438c49b53526",
+    "version":  "1.19.7",
+    "sha256":  "6d0d2d76d0f1a9df2e26a8b0f605532cd535066c81b1ac0b4c1d9ed0b4884332",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix Blank cover staying on; 7 ad animations; delete-from-Media warning; smarter queue save; simpler screen Manage panel"
+    "notes":  "Own running text runs; Identify over YouTube videos; Media badge/filter/search/sort; new Updates card with night-hours auto update; update notice"
 }
