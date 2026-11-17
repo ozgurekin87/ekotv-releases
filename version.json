@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.0",
-    "sha256":  "33c1970da579bbc7b398087ed6e74b95894e236fc1522d247e44ef383213480e",
+    "version":  "1.19.1",
+    "sha256":  "c3ff2a2d838c7db5042688518f402add38f5e3371e4d639cf93707c546e35432",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "TV channels (IPTV): add, import and watch live channels on a screen"
+    "notes":  "Fix: Watch on a TV channel now takes the screen even with songs queued"
 }
