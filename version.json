@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.8",
-    "sha256":  "f303c854b25a810959e496389d15112efa8766fcea8fe30d2f1f4fc409c3d13d",
+    "version":  "1.19.9",
+    "sha256":  "9b9949d6440727e612af990a348ee86c64b105c5eb1372ed6884cfcbd73a9feb",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Settings pages restyled like Updates with iPhone-style switches; user guide updated"
+    "notes":  "Help page with the user guide; Play now clears the playlist; Queued button fix; search clear button; ads take turns"
 }
