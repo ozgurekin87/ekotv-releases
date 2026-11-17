@@ -1,6 +1,6 @@
 {
-    "version":  "1.16.1",
-    "sha256":  "7eaed1288fd66b7d777111a31e2d7f81db129d4d95a7b520a95daf2f34876c60",
+    "version":  "1.17.0",
+    "sha256":  "ce1beae208f3671ff8226bbd85720f74f622c5a98c5dce758225759719db91ee",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: black screen on videos played through the YouTube site (removed the video-resize rule; bar and ad code can no longer stop playback)"
+    "notes":  "Notifications in control panels; bar logo fix; resume song after update; queue no longer jumps"
 }
