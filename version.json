@@ -1,6 +1,6 @@
 {
-    "version":  "1.20.0",
-    "sha256":  "e48e634e8779551c6a72ab5872fcfd1ee4a4bd286d9d2ae32b3625053f8cce22",
+    "version":  "1.20.1",
+    "sha256":  "21cd75c741a8d62a7e6069bc005f41a65871bbfc7aca3c3c01abc02a0d474601",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Roles and users: per-role menus and sub-menus, fixed Admin role; Autoplay badge; clearer Back to playlist button"
+    "notes":  "Playing music on a screen that shows a TV channel now asks first, then stops the channel and plays the music"
 }
