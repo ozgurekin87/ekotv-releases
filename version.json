@@ -1,6 +1,6 @@
 {
-    "version":  "1.17.0",
-    "sha256":  "ce1beae208f3671ff8226bbd85720f74f622c5a98c5dce758225759719db91ee",
+    "version":  "1.18.0",
+    "sha256":  "e9906b19fe8185f27c974f41e7ee57efee54c9530f281abcdb2b144de6992256",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Notifications in control panels; bar logo fix; resume song after update; queue no longer jumps"
+    "notes":  "Ads: fit and size settings, Show now on screen; phone bottom bar fixes"
 }
