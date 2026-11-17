@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.5",
-    "sha256":  "bd1b5506b182ea96730c438b4bdfadd829b0dbbbe925d517a41158f6ce9861c1",
+    "version":  "1.19.6",
+    "sha256":  "76aec8f0d133d954b6a6858f2ce956f68f903496bddb7abf56d1438c49b53526",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Ads: Show now over YouTube-site videos, drag to position, effect preview; restore picture after Blank/Pause"
+    "notes":  "Fix Blank cover staying on; 7 ad animations; delete-from-Media warning; smarter queue save; simpler screen Manage panel"
 }
