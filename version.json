@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.0",
-    "sha256":  "df8959cddfd3fa315ef65810ab05ec6ab514e315445fe80c77c17c2aa9cd57f5",
+    "version":  "1.22.1",
+    "sha256":  "87d15a55392f00e63e9c359d430923ef2461dd7d80af58712e136863e5a9b947",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Send to Eko TV: log in to NexGen on your own PC and send the channel to a screen; token-protected channels now play"
+    "notes":  "New per-screen setting: show the player full screen (taskbar hidden) or in a window, from the panel"
 }
