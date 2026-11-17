@@ -1,6 +1,6 @@
 {
-    "version":  "1.18.3",
-    "sha256":  "5c023db856db1902b82db4fd9cdd37eb71b93d9449fa46e009201c7ef5a6bf49",
+    "version":  "1.19.0",
+    "sha256":  "33c1970da579bbc7b398087ed6e74b95894e236fc1522d247e44ef383213480e",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Play saved playlists, added-by labels, fair-use limits, collapsible playlists, pause confirmation"
+    "notes":  "TV channels (IPTV): add, import and watch live channels on a screen"
 }
