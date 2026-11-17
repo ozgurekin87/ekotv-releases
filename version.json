@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.4",
-    "sha256":  "f12451c533fef0193e44679e9b8d52367b930e010a75e5e288220df1ced6c573",
+    "version":  "1.19.5",
+    "sha256":  "bd1b5506b182ea96730c438b4bdfadd829b0dbbbe925d517a41158f6ce9861c1",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Slower fade when skipping (sound fades out over 1.5 s); fix ad Show now not appearing on repeat"
+    "notes":  "Ads: Show now over YouTube-site videos, drag to position, effect preview; restore picture after Blank/Pause"
 }
