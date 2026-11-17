@@ -1,6 +1,6 @@
 {
-    "version":  "1.18.2",
-    "sha256":  "2b96b2bdfc80355ae28c43c7839ac941dd2d4b77367321490b9c4636eeabdb5d",
+    "version":  "1.18.3",
+    "sha256":  "5c023db856db1902b82db4fd9cdd37eb71b93d9449fa46e009201c7ef5a6bf49",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "QA fixes: paste YouTube link, real song titles, activity log, bell badge, wording"
+    "notes":  "Play saved playlists, added-by labels, fair-use limits, collapsible playlists, pause confirmation"
 }
