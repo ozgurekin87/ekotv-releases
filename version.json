@@ -1,6 +1,6 @@
 {
-    "version":  "1.18.1",
-    "sha256":  "ddfa62ccf739c5e7a94a4d7cf0c3e5c87bc37ef1119eb719c36a75ecddfd1196",
+    "version":  "1.18.2",
+    "sha256":  "2b96b2bdfc80355ae28c43c7839ac941dd2d4b77367321490b9c4636eeabdb5d",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "In-app dialogs, Open on phone moved to Settings, red log out"
+    "notes":  "QA fixes: paste YouTube link, real song titles, activity log, bell badge, wording"
 }
