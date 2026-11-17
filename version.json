@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.1",
-    "sha256":  "c3ff2a2d838c7db5042688518f402add38f5e3371e4d639cf93707c546e35432",
+    "version":  "1.19.2",
+    "sha256":  "020a3ecd3d15a8bc56ededf4e7c2408b2ad7689da07ef7d87c8cc7d54229c02c",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: Watch on a TV channel now takes the screen even with songs queued"
+    "notes":  "Test-mode window fills the screen; DW English replaces dead ABC test channel"
 }
