@@ -1,6 +1,6 @@
 {
-    "version":  "1.21.0",
-    "sha256":  "c1feeb53e232a906540a716e189dd1990bb668c9107c63434a437de4ff981a14",
+    "version":  "1.21.1",
+    "sha256":  "6ec9af845c7613dab1fda8556d88b26c965ece6db3d2b0751a21f03128f6d93a",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Websites on a screen with Remote control (NexGen TV page); asks before switching between music and TV; Show now restarts the ad timer; ad layout and captions fixes"
+    "notes":  "Fix NexGen page message box freezing website mode; website mode covers the taskbar; panels reload themselves after an update"
 }
