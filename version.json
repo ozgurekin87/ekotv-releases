@@ -1,6 +1,6 @@
 {
-    "version":  "1.19.7",
-    "sha256":  "6d0d2d76d0f1a9df2e26a8b0f605532cd535066c81b1ac0b4c1d9ed0b4884332",
+    "version":  "1.19.8",
+    "sha256":  "f303c854b25a810959e496389d15112efa8766fcea8fe30d2f1f4fc409c3d13d",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Own running text runs; Identify over YouTube videos; Media badge/filter/search/sort; new Updates card with night-hours auto update; update notice"
+    "notes":  "Settings pages restyled like Updates with iPhone-style switches; user guide updated"
 }
