@@ -1,6 +1,6 @@
 {
-    "version":  "1.21.1",
-    "sha256":  "6ec9af845c7613dab1fda8556d88b26c965ece6db3d2b0751a21f03128f6d93a",
+    "version":  "1.22.0",
+    "sha256":  "df8959cddfd3fa315ef65810ab05ec6ab514e315445fe80c77c17c2aa9cd57f5",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix NexGen page message box freezing website mode; website mode covers the taskbar; panels reload themselves after an update"
+    "notes":  "Send to Eko TV: log in to NexGen on your own PC and send the channel to a screen; token-protected channels now play"
 }
