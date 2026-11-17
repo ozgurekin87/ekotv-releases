@@ -1,6 +1,6 @@
 {
-    "version":  "1.18.0",
-    "sha256":  "e9906b19fe8185f27c974f41e7ee57efee54c9530f281abcdb2b144de6992256",
+    "version":  "1.18.1",
+    "sha256":  "ddfa62ccf739c5e7a94a4d7cf0c3e5c87bc37ef1119eb719c36a75ecddfd1196",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Ads: fit and size settings, Show now on screen; phone bottom bar fixes"
+    "notes":  "In-app dialogs, Open on phone moved to Settings, red log out"
 }
