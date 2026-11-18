@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.1",
-    "sha256":  "87d15a55392f00e63e9c359d430923ef2461dd7d80af58712e136863e5a9b947",
+    "version":  "1.22.2",
+    "sha256":  "a4c7e05c1c7b2de46d703f7dfa7c9dc87e463bbe1b37c47275f5dab3b792d7d2",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "New per-screen setting: show the player full screen (taskbar hidden) or in a window, from the panel"
+    "notes":  "TV channel guide, volume and channel buttons for the phone, NexGen on one screen at a time, option to keep ads off TV channels, easier Send to Eko TV setup"
 }
