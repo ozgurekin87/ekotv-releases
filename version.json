@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.7",
-    "sha256":  "2db092f605fdfcb1cdb8004e406baac9db54b27fd471193a1e5521e0365d74d3",
+    "version":  "1.22.8",
+    "sha256":  "ad95f4630257d76a00066c017c225a488de022ee81aecd9da54bf00aa346f0c3",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: the screen setting On the TV \u003e Window is now kept when a website is showing"
+    "notes":  "Fix: NexGen\u0027s page no longer reloads itself in a loop (stuck blank page)"
 }
