@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.6",
-    "sha256":  "9cee25db08f713bf16e908367b606e65154624afe9d6a7928dd6b25790737088",
+    "version":  "1.22.7",
+    "sha256":  "2db092f605fdfcb1cdb8004e406baac9db54b27fd471193a1e5521e0365d74d3",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "TV page cleanup: the old paste-a-link card is gone; Channel guide and Remote control replace it"
+    "notes":  "Fix: the screen setting On the TV \u003e Window is now kept when a website is showing"
 }
