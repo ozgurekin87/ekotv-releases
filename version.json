@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.3",
-    "sha256":  "deb4332426b4fb58876c75a6874a9c5cd0f01b718edb17da896c602e06a178d1",
+    "version":  "1.22.4",
+    "sha256":  "e6b49a75fb45367ad308ddbbc02e648a819d57c0f5ac1abc59efd5501db8eef8",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Channel guide: tap a NexGen channel and Eko TV opens it on the screen by itself (Remote control stays as fallback)"
+    "notes":  "Fixes: channel retry loop, NexGen pausing itself, clear message when NexGen is logged out; smoother Remote control"
 }
