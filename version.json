@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.11",
-    "sha256":  "2331984347a7a7850adab35d9c208face236e8bfa133548fb1541c11510ab14e",
+    "version":  "1.22.12",
+    "sha256":  "f993307c131b312ccf95e8169a8b7a8ed3cb4a365dfe7c827fcf0582b7749c2d",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Channel guide by category with what\u0027s on now; blank NexGen page recovers by itself"
+    "notes":  "Page-restart-loop detector for NexGen; guide search clears properly"
 }
