@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.9",
-    "sha256":  "c0600d82e006c3d0b9bd6aee74331e10e277cc90759401acf4f357b00da06cf8",
+    "version":  "1.22.10",
+    "sha256":  "eea1266d9be7c013bdb2bfb7e491873d485ab0b728185623efc58db3d82767dd",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Diagnosis build for NexGen reload loop (no change in normal behaviour)"
+    "notes":  "NexGen channel picking works in Spanish; no stray profile"
 }
