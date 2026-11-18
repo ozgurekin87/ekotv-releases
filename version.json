@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.8",
-    "sha256":  "ad95f4630257d76a00066c017c225a488de022ee81aecd9da54bf00aa346f0c3",
+    "version":  "1.22.9",
+    "sha256":  "c0600d82e006c3d0b9bd6aee74331e10e277cc90759401acf4f357b00da06cf8",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: NexGen\u0027s page no longer reloads itself in a loop (stuck blank page)"
+    "notes":  "Diagnosis build for NexGen reload loop (no change in normal behaviour)"
 }
