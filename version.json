@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.4",
-    "sha256":  "e6b49a75fb45367ad308ddbbc02e648a819d57c0f5ac1abc59efd5501db8eef8",
+    "version":  "1.22.5",
+    "sha256":  "55c3603dfdc361dddd46d6059934ebe87db5cd25217b6187536d583d65c02b49",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fixes: channel retry loop, NexGen pausing itself, clear message when NexGen is logged out; smoother Remote control"
+    "notes":  "Gentler fix for websites pausing: the page is only touched when it has lost focus"
 }
