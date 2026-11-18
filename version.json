@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.5",
-    "sha256":  "55c3603dfdc361dddd46d6059934ebe87db5cd25217b6187536d583d65c02b49",
+    "version":  "1.22.6",
+    "sha256":  "9cee25db08f713bf16e908367b606e65154624afe9d6a7928dd6b25790737088",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Gentler fix for websites pausing: the page is only touched when it has lost focus"
+    "notes":  "TV page cleanup: the old paste-a-link card is gone; Channel guide and Remote control replace it"
 }
