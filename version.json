@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.12",
-    "sha256":  "f993307c131b312ccf95e8169a8b7a8ed3cb4a365dfe7c827fcf0582b7749c2d",
+    "version":  "1.22.13",
+    "sha256":  "8de74ee56d8c11b287169b7a2cdcf22dc91475c346c5bb5d4604fda7ccb3aa33",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Page-restart-loop detector for NexGen; guide search clears properly"
+    "notes":  "Fix: NexGen page no longer reloads itself in a loop"
 }
