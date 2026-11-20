@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.14",
-    "sha256":  "5dee0ceadc70667ed4d0f099eb97015357ad562bca77e61aef9a25614e437819",
-    "file":  "EkoTV-Setup.exe",
-    "notes":  "Guide: clear search, favorites, most played; next/previous channel buttons"
+  "version": "1.22.50",
+  "sha256": "61c24f9692946926f235380512c73026d0769ca59a9351018064e1eacb89b499",
+  "file": "EkoTV-Setup.exe",
+  "notes": "NexGen channels start reliably again (renamed channel tiles found, refused tokens retried); Preparing screen for slow channel changes; no ads over channels or websites; volume - and + on screen cards; no Up next at the end of YouTube-page songs; age-restricted videos skipped; guide-only channel selection"
 }
