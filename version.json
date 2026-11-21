@@ -1,6 +1,6 @@
 {
-  "version": "1.22.71",
-  "sha256": "0e53d685993c2ea67e1dbd7a4835e5253a5cb8d0d1f2b229b1cabecb55e18f51",
+  "version": "1.22.72",
+  "sha256": "ae1568a6b46712da132a622cec3b983dac65cc82f4ce86952fa2bb394f4f4231",
   "file": "EkoTV-Setup.exe",
-  "notes": "Browse NexGen made faster and more reliable: reuses the hidden window's already-open page instead of reloading it every time, and its window now closes right after every accepted pick -- a fast switch, or even re-picking the channel already showing -- instead of sometimes staying open"
+  "notes": "Screen log in Manage (read a screen's log from the panel; copy kept when it goes offline); the service now restarts a player that quit or froze, and the panel's Restart player works on a stopped player"
 }
