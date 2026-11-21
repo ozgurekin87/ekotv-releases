@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.79",
-    "sha256":  "d0f564805577e5629c5ac7961b290ed84bdd54da33e4d7dc3349387b15b4308b",
+    "version":  "1.22.80",
+    "sha256":  "74376ca302318f5dd85d742878723a331d66c31a6c47e40e6753c66301acaf1e",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Open / Close menu with its own right, sleeping moon and built-in closed message on the TVs, nothing plays while closed"
+    "notes":  "Fix: the player page did not start on screens that took 1.22.79 (music stuck at starting). New: day/night switch in the left pane with a confirmation, music fades down slowly when closing"
 }
