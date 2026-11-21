@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.82",
-    "sha256":  "8c5694e45fd00377582d82455a20148239f53a45be6d9131663bccb112021907",
+    "version":  "1.22.83",
+    "sha256":  "e33ba689eefc0dc84c164a7d540979310ebba13215eb64ab094fda2b8972c755",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "While closed: Music and TV menus locked, playback buttons greyed, no pause prompt, ads test refused"
+    "notes":  "Fix: restart loop when Edge is restarted during a YouTube-site song (Open for the day, Restart player)"
 }
