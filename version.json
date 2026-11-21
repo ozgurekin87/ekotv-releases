@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.85",
-    "sha256":  "de441d2ef30122693f3428188a66cda018b82498bdc8efc3f21ab2ea8013ad95",
+    "version":  "1.22.86",
+    "sha256":  "2ac6893286b000a94af48abd492cc35d1c5d19f48fcd7b225b2f78641573be94",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Closed curtain now covers the broadcast bar on the player page"
+    "notes":  "Panel: closed-for-the-night page for logins with nothing else to open, and no stale page after switching user"
 }
