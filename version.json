@@ -1,6 +1,6 @@
 {
-  "version": "1.22.72",
-  "sha256": "ae1568a6b46712da132a622cec3b983dac65cc82f4ce86952fa2bb394f4f4231",
-  "file": "EkoTV-Setup.exe",
-  "notes": "Screen log in Manage (read a screen's log from the panel; copy kept when it goes offline); the service now restarts a player that quit or froze, and the panel's Restart player works on a stopped player"
+    "version":  "1.22.73",
+    "sha256":  "9d167daa5af2e97e85265d9ceda78095a3b10d99af81bb603d1d0f9c607c1a0f",
+    "file":  "EkoTV-Setup.exe",
+    "notes":  "Finds why a screen player quits silently (crash and health lines in its log), keeps the Windows taskbar hidden on screens, no more save-password prompts on screens, music controls: previous song button always goes back and a new start-over button"
 }
