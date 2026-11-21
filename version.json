@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.86",
-    "sha256":  "2ac6893286b000a94af48abd492cc35d1c5d19f48fcd7b225b2f78641573be94",
+    "version":  "1.22.87",
+    "sha256":  "23d9352e5a39cbec406f097bc7f95977f9044737a836cf249ef5a7d9101c83a0",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Panel: closed-for-the-night page for logins with nothing else to open, and no stale page after switching user"
+    "notes":  "Browse NexGen: a browser restart no longer leaves NexGen blocked for 10 minutes"
 }
