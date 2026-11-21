@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.80",
-    "sha256":  "74376ca302318f5dd85d742878723a331d66c31a6c47e40e6753c66301acaf1e",
+    "version":  "1.22.81",
+    "sha256":  "e10ec15c1853746f0539afe5a116adbc2b6e3982fd82b697a56f620ff50a0f46",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: the player page did not start on screens that took 1.22.79 (music stuck at starting). New: day/night switch in the left pane with a confirmation, music fades down slowly when closing"
+    "notes":  "Fix: closed screen in YouTube mode now pauses the music, shows the moon and blocks ads"
 }
