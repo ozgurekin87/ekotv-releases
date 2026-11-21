@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.76",
-    "sha256":  "8dabb1852eab61621f03fd9c92e5a967e4fcb2f759c24ae67cf40818cf1d6f2c",
+    "version":  "1.22.78",
+    "sha256":  "c52892e96671180627852649ab0c23333eb68116b9901db7a9277d2b6b2dd770",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Autoplay skips every other upload of the song that is playing (accents, spellings, Oficial/Letra, Song - Artist order); tested with real YouTube results for Obsesion"
+    "notes":  "Close for the night / Open for the day (buttons and automatic times, fresh start with cache cleared), sleeping moon on the closed card, automatic repair of damaged text such as the Blank screen message"
 }
