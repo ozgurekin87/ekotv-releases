@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.83",
-    "sha256":  "e33ba689eefc0dc84c164a7d540979310ebba13215eb64ab094fda2b8972c755",
+    "version":  "1.22.84",
+    "sha256":  "489d8eca4721c380fbb06de8a283a3356dd927c0bf0cf5170155053eec9f1734",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: restart loop when Edge is restarted during a YouTube-site song (Open for the day, Restart player)"
+    "notes":  "Theater curtain closes while the volume fades down; closed card with moon and message fades in on the curtain"
 }
