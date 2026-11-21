@@ -1,6 +1,6 @@
 {
-  "version": "1.22.67",
-  "sha256": "d7a1128c007cc4f4690c767ea71995b572f9d4a7ea3a7bf9ec4322c9d65e738a",
+  "version": "1.22.71",
+  "sha256": "0e53d685993c2ea67e1dbd7a4835e5253a5cb8d0d1f2b229b1cabecb55e18f51",
   "file": "EkoTV-Setup.exe",
-  "notes": "Channel picking made reliable: finds a renamed/far-down channel by name instead of a useless number search; a freshly taken token is checked before use instead of handed straight to the player (fixes slow/failed starts on CNN, beIN Sports, Nickelodeon); Browse NexGen's hidden page recovers itself if it gets stuck; ads and the running-text bar no longer show over a TV channel/website; new 'no bar at all over channels' option; jumping to a queued song now actually takes the screen back from a channel; a channel's name shows briefly on screen when it starts; Channel guide and Websites-on-a-screen hidden in favour of Browse NexGen (kept, not removed)"
+  "notes": "Browse NexGen made faster and more reliable: reuses the hidden window's already-open page instead of reloading it every time, and its window now closes right after every accepted pick -- a fast switch, or even re-picking the channel already showing -- instead of sometimes staying open"
 }
