@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.74",
-    "sha256":  "83d377cca80abb4fdb04e5ac9511f12cd910b853a59042965d27dc1d6880800d",
+    "version":  "1.22.75",
+    "sha256":  "66014604a7173e18367f73de84e0ba457e0f85bb2f98b638844e7adf9d64baed",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Bar stays visible over the black while the next video loads when songs change in YouTube site mode"
+    "notes":  "Autoplay no longer queues the same song many times when it is uploaded by different channels (accents, Oficial/Letra, Song - Artist order)"
 }
