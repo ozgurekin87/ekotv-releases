@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.84",
-    "sha256":  "489d8eca4721c380fbb06de8a283a3356dd927c0bf0cf5170155053eec9f1734",
+    "version":  "1.22.85",
+    "sha256":  "de441d2ef30122693f3428188a66cda018b82498bdc8efc3f21ab2ea8013ad95",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Theater curtain closes while the volume fades down; closed card with moon and message fades in on the curtain"
+    "notes":  "Closed curtain now covers the broadcast bar on the player page"
 }
