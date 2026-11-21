@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.73",
-    "sha256":  "9d167daa5af2e97e85265d9ceda78095a3b10d99af81bb603d1d0f9c607c1a0f",
+    "version":  "1.22.74",
+    "sha256":  "83d377cca80abb4fdb04e5ac9511f12cd910b853a59042965d27dc1d6880800d",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Finds why a screen player quits silently (crash and health lines in its log), keeps the Windows taskbar hidden on screens, no more save-password prompts on screens, music controls: previous song button always goes back and a new start-over button"
+    "notes":  "Bar stays visible over the black while the next video loads when songs change in YouTube site mode"
 }
