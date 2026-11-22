@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.92",
-    "sha256":  "fc84f09071dcb7959aee0eb76dc34a6528d014db50b279bad4cd995ba0f34d3f",
+    "version":  "1.22.93",
+    "sha256":  "dad811de179f37aa435bb676e12f0487e2a1c5611faf1972a455370efe55147a",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Paste a YouTube playlist link and it is split into its songs (Media and Music pages); optional per-screen NexGen keep-ready setting"
+    "notes":  "Music lock: a switch in the left pane locks the music to one login (others see a faded padlock). Fix: pressing play on a song while a TV channel shows no longer skips a song. Long names wrap in dialogs."
 }
