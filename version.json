@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.87",
-    "sha256":  "23d9352e5a39cbec406f097bc7f95977f9044737a836cf249ef5a7d9101c83a0",
+    "version":  "1.22.88",
+    "sha256":  "0aa36874720096a14947b6959df4068a0230d7bad499935fd522497b2003a2aa",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Browse NexGen: a browser restart no longer leaves NexGen blocked for 10 minutes"
+    "notes":  "Open/close switch: calm green day look that matches the panel"
 }
