@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.88",
-    "sha256":  "0aa36874720096a14947b6959df4068a0230d7bad499935fd522497b2003a2aa",
+    "version":  "1.22.89",
+    "sha256":  "3655c608117b4ba9c43647571a0b69b7ed1e3b6585fb56bb004c5ddad340e945",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Open/close switch: calm green day look that matches the panel"
+    "notes":  "Open/close switch shows what is really playing instead of always saying music playing"
 }
