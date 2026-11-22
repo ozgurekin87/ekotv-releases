@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.89",
-    "sha256":  "3655c608117b4ba9c43647571a0b69b7ed1e3b6585fb56bb004c5ddad340e945",
+    "version":  "1.22.90",
+    "sha256":  "00ce04be066efc856a404895ededd1526f4767218868277cd22a8e10cc3be281",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Open/close switch shows what is really playing instead of always saying music playing"
+    "notes":  "Playing on a stopped screen now asks to start it instead of doing nothing"
 }
