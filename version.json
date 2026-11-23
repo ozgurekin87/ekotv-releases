@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.93",
-    "sha256":  "dad811de179f37aa435bb676e12f0487e2a1c5611faf1972a455370efe55147a",
+    "version":  "1.22.95",
+    "sha256":  "334d2e909935ddc168a9b9ef0966edc8fb21e3e4472a88e2cbc47e55b8a8dc2a",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Music lock: a switch in the left pane locks the music to one login (others see a faded padlock). Fix: pressing play on a song while a TV channel shows no longer skips a song. Long names wrap in dialogs."
+    "notes":  "Play next: put a song right after the current one without touching the queue or playlist. Screen log now shows the player\u0027s last crash message."
 }
