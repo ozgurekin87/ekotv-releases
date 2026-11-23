@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.95",
-    "sha256":  "334d2e909935ddc168a9b9ef0966edc8fb21e3e4472a88e2cbc47e55b8a8dc2a",
+    "version":  "1.22.96",
+    "sha256":  "ab2751e2f8ddb533de290b044a09d7e42d67ff2daaa7a5179c004d24bdd205fb",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Play next: put a song right after the current one without touching the queue or playlist. Screen log now shows the player\u0027s last crash message."
+    "notes":  "Screen log now shows the last crash of the player (log lines before it and the start of the crash message)."
 }
