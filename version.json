@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.96",
-    "sha256":  "ab2751e2f8ddb533de290b044a09d7e42d67ff2daaa7a5179c004d24bdd205fb",
+    "version":  "1.22.97",
+    "sha256":  "b8222cb32fc052d4965e02220e76890f0c61208f7d9e0e331bd2733814a5d9d6",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Screen log now shows the last crash of the player (log lines before it and the start of the crash message)."
+    "notes":  "Fixes the screen player crashing every 2h47m (it ran out of Windows callbacks while checking the taskbar)."
 }
