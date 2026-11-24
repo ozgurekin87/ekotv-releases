@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.98",
-    "sha256":  "cd692811e191080573d63c58bda04be8cb5521509cfa9a29946a36b6c368d84a",
+    "version":  "1.22.105",
+    "sha256":  "8176645841ad889fd7f5965588d69c39f332d993b0eaa4f1b5d6f389bf93568c",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Music search: find playlists and play the whole playlist (Play all / Queue all)"
+    "notes":  "shuffle, repeat, crossfade, song volume balance, no-replay window; smart shuffle, 👎 ban, clean-only, areas, time schedules, ad ducking, phone remote; Repeat one now also works for songs on the YouTube site; 🎬 Videos only and Shuffle cycle Off/Shuffle/✨ Smart; seeking on the Music progress bar; Music panel shows From playlist: \u003cname\u003e under the queue; seeking now allowed for ANY playing YouTube/uploaded song (not only queued); Music controls review"
 }
