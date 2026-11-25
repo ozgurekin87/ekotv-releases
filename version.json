@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.107",
-    "sha256":  "2177348fd02af4c62301af0867d35f0aa627cb21c993dae8353d2fedeea90d82",
+    "version":  "1.22.108",
+    "sha256":  "29a30f4d9c723fd384a1f0789ddf6f9de383a1c08e017ba3458afccb8679895d",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Diagnosis: a song on the YouTube site (site mode) ended early with no reason in the log (CLUB2: a long country compilation stopped after 49 s at 09:58)"
+    "notes":  "Running-text-off warning on Design page; Server PC clock card (set time zone \u0026 sync)"
 }
