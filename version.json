@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.106",
-    "sha256":  "acfc1fc3b4e247263ed73e17ac5273f7bad90daa9cedba19640f2f20989960f2",
+    "version":  "1.22.107",
+    "sha256":  "2177348fd02af4c62301af0867d35f0aa627cb21c993dae8353d2fedeea90d82",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Fix: no ads over live TV channels"
+    "notes":  "Diagnosis: a song on the YouTube site (site mode) ended early with no reason in the log (CLUB2: a long country compilation stopped after 49 s at 09:58)"
 }
