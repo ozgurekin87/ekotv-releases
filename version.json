@@ -1,6 +1,6 @@
 {
-    "version":  "1.22.108",
-    "sha256":  "29a30f4d9c723fd384a1f0789ddf6f9de383a1c08e017ba3458afccb8679895d",
+    "version":  "1.22.109",
+    "sha256":  "0544a1bee3689acf3b0cd378e1dcbb75df065f7a66aeb4fdc9fbfc9abae81a61",
     "file":  "EkoTV-Setup.exe",
-    "notes":  "Running-text-off warning on Design page; Server PC clock card (set time zone \u0026 sync)"
+    "notes":  "Autoplay never stops: varies the search, replays earlier songs if nothing new"
 }
